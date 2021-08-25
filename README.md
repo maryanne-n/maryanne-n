@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-### I'm Mary-Anne, a digital designer from the land down under 🐨
+#### I'm Mary-Anne, a digital designer from the land down under 🐨
 
 💼 I'm currently working with Inskin Media, an international agency specialising in delivering high-impact digital advertising. \
 🌱 I am working hard to improve my frontend development skills, especially js \
