@@ -7,6 +7,9 @@
 📫 You can reach me at mng8hc@gmail.com \
 🎻 Fun fact: I also hold a degree in music performance, and enjoy teaching, gigging and recording in my free time
 
+[![maryanne-n's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maryanne-n)](https://github.com/maryanne-n/maryanne-n)
+
+
 <!--
 **maryanne-n/maryanne-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
