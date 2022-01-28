@@ -7,7 +7,7 @@
 📫 You can reach me at mng8hc@gmail.com \
 🎻 Fun fact: I also hold a degree in music performance, and enjoy teaching, gigging and recording in my free time
 
-[![maryanne-n's Github stats](https://https://github.com/maryanne-n/api/wakatime?username=maryanne_n)](https://github.com/maryanne-n/maryanne-n)
+[![maryanne-n's Github stats](https://github.com/maryanne-n/api/wakatime?username=maryanne_n)](https://github.com/maryanne-n/maryanne-n)
 
 
 <!--
