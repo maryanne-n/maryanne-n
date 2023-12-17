@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Mary-Anne, a digital designer from Australia 🐨
+#### I'm Anna, a digital designer from Australia 🐨
 
 💼 I'm currently working at Azerion, a digital entertainment and media platform \
 🌱 I am working hard to improve my frontend development skills, especially js \
